@@ -1,4 +1,4 @@
-# Bug bounty  
+# Bug bounty   
 
 ***
 
